@@ -1,2 +1,2 @@
 # vacancy
-https://razzorenoff.github.io/vacancy/
+https://razzorenoff.github.io/vacancy/src/
